@@ -1,6 +1,7 @@
-## Hi I'm Ihor 
+## Hi I'm Ihor 🧑‍💻
 
-I'm a Fullstack Developer that loves doing things that bring people satisfactiong and usefulness using them. I'm really into building something great.
+I'm a Fullstack Developer that loves doing things that bring people satisfactiong and usefulness using them. I'm really into building something great. What I've understood that it doens't matter what the technology you use but what value you brings to business and people as well.
+Never be someting one, but always try to be something more that one. That's why I love chess, basketball/football and calisthenics.
 
 ## My main tech stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
