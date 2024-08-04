@@ -1,6 +1,6 @@
 ## Hi I'm Ihor 🧑‍💻
 
-I'm a Fullstack Developer that loves doing things that bring people satisfactiong and usefulness using them. I'm really into building something great. What I've understood that it doens't matter what the technology you use but what value you brings to business and people as well.
+I'm a Fullstack Developer that loves doing things that bring people satisfaction and usefulness using them. I'm really into building something great and usefull. What I've understood that it doens't matter what the technology you use but what value you bring to business and people as well.
 Never be someting one, but always try to be something more that one. That's why I love chess, basketball/football and calisthenics.
 
 ## My main tech stack:
